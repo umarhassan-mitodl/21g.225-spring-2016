@@ -1,0 +1,85 @@
+leftnav:
+- identifier: 111c19cc-a569-0125-9797-37b03b6331c4
+  name: Syllabus
+  pageRef: /pages/syllabus/
+  weight: 10
+- identifier: 6fa78d88-0c22-8c29-3cea-3a250408ec57
+  name: Course Goals
+  pageRef: /pages/syllabus/goals-of-the-advanced-workshop-for-writing-in-science-engineering
+  parent: 111c19cc-a569-0125-9797-37b03b6331c4
+  weight: 20
+- identifier: 34dbc004-dac7-0f5b-76ba-0c0df7f85b47
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 30
+- identifier: f67e416f-77de-7ab7-6baf-2273d4824ae4
+  name: Readings and Homework Preparation
+  pageRef: /pages/readings-and-homework-preparation/
+  weight: 40
+- identifier: 16ec3974-9a28-6e2c-e581-a31df80952b1
+  name: Nano-presentations
+  pageRef: /pages/readings-and-homework-preparation/nano-presentations
+  parent: f67e416f-77de-7ab7-6baf-2273d4824ae4
+  weight: 50
+- identifier: 8e360434-44c3-fc07-877e-802467777765
+  name: Assignments
+  pageRef: /pages/assignments
+  weight: 60
+- identifier: 3d0924c7-63da-6c98-a769-cd3832f34a97
+  name: Study Materials
+  pageRef: /pages/study-materials/
+  weight: 70
+- identifier: 8ce3b1ab-573d-e2fc-b2e9-d16974209313
+  name: Reading Like a Professional
+  pageRef: /pages/study-materials/reading-like-a-professional
+  parent: 3d0924c7-63da-6c98-a769-cd3832f34a97
+  weight: 80
+- identifier: 9401d117-9d0d-bd08-5fce-05a43ab0fda7
+  name: 'Writing Strategy Checklist: Questions to Ask'
+  pageRef: /pages/study-materials/writing-strategy-checklist-questions-to-ask
+  parent: 3d0924c7-63da-6c98-a769-cd3832f34a97
+  weight: 90
+- identifier: 8fa344d6-8ab9-3ee9-5801-6a5eab917d0c
+  name: 'Peer Review Workshop: Writing for the Public'
+  pageRef: /pages/study-materials/peer-review-workshop-writing-for-the-public
+  parent: 3d0924c7-63da-6c98-a769-cd3832f34a97
+  weight: 100
+- identifier: 545b4500-8283-bb5d-3108-84c4e85a3973
+  name: Technical Memo Checklist
+  pageRef: /pages/study-materials/technical-memo-checklist
+  parent: 3d0924c7-63da-6c98-a769-cd3832f34a97
+  weight: 110
+- identifier: 49ae2683-593f-e557-23dc-1d5683db0aee
+  name: Job Application Letter Checklist
+  pageRef: /pages/study-materials/job-application-letter-checklist
+  parent: 3d0924c7-63da-6c98-a769-cd3832f34a97
+  weight: 120
+- identifier: 819b0cfe-a2d7-f05e-c44c-60f409589360
+  name: 'Abstract / Introduction: Checklist'
+  pageRef: /pages/study-materials/abstract-introduction-checklist
+  parent: 3d0924c7-63da-6c98-a769-cd3832f34a97
+  weight: 130
+- identifier: 7f2e32e7-7cef-ac4b-6e8a-94c8a854b357
+  name: Checklist for Effective Proposals
+  pageRef: /pages/study-materials/checklist-for-effective-proposals
+  parent: 3d0924c7-63da-6c98-a769-cd3832f34a97
+  weight: 140
+- identifier: 64bd4edc-1d84-63e5-2828-c84d92028d59
+  name: Tips for Presenting Posters
+  pageRef: /pages/study-materials/tips-for-presenting-posters
+  parent: 3d0924c7-63da-6c98-a769-cd3832f34a97
+  weight: 150
+- identifier: ba58945f-8b8a-118c-92bc-ab63b9d8ed0f
+  name: Thesis Abstract Preparation Guidelines
+  pageRef: /pages/study-materials/thesis-abstract-preparation-guidelines
+  parent: 3d0924c7-63da-6c98-a769-cd3832f34a97
+  weight: 160
+- identifier: d439635d-a46c-e9d5-41d5-3f01f345960e
+  name: Guide to the Thesis Summary Chapter
+  pageRef: /pages/study-materials/guide-to-the-thesis-summary-chapter
+  parent: 3d0924c7-63da-6c98-a769-cd3832f34a97
+  weight: 170
+- identifier: b95bcbad-0d3b-bd4b-3674-3b31f63cd023
+  name: Related Resources
+  pageRef: /pages/related-resources
+  weight: 180
