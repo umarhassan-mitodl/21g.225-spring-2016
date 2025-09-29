@@ -2,6 +2,8 @@
 content_type: page
 description: This section contains the course description, goals and expectations,
   required texts and materials, and grading policy.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -45,7 +47,7 @@ Houghton Mifflin Company. _The American Heritage Dictionary_. 5th ed. Dell, 2012
 
 Oxford University Press. _New Oxford American Dictionary_. 3rd ed. Oxford University Press, 2010. ISBN: 9780195392883.
 
-A published formal, academic article, or model paper, reporting on research from a respected English language, refereed academic journal in your field, or from {{% resource_link "f06e6e56-1b2e-4f0c-959c-c7878eaa72e6" "_Nature_" %}}. The article _must_ include an abstract, subheadings, figures, tables and references. The article may not be a letter or conference proceedings. Bring one copy to the instructor; have another copy with you in every 21G.225 / 6 class.
+A published formal, academic article, or model paper, reporting on research from a respected English language, refereed academic journal in your field, or from [_Nature_](http://www.nature.com/nature/index.html). The article _must_ include an abstract, subheadings, figures, tables and references. The article may not be a letter or conference proceedings. Bring one copy to the instructor; have another copy with you in every 21G.225 / 6 class.
 
 For more of the course readings, please see the table in the {{% resource_link f67e416f-77de-7ab7-6baf-2273d4824ae4 "Readings" %}} section.
 
