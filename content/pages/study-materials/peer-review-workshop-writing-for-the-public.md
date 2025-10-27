@@ -2,8 +2,6 @@
 content_type: page
 description: This section contains information on how to discuss documents in the
   course's peer review workshop.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Study Materials
