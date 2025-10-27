@@ -10,7 +10,7 @@ uid: f67e416f-77de-7ab7-6baf-2273d4824ae4
 ---
 \[C\] = Caplan, Nigel A. *Grammar Choices for Graduate and Professional Writers (Michigan Series in English for Academic & Professional Purposes)*. University of Michigan Press ELT, 2012. ISBN: 9780472035014.
 
-\[CA\] = ———. ["Commentary and Answer Key for *Grammar Choices for Graduate and Professional Writers*." (PDF)](http://www.press.umich.edu/elt/tm/9780472035014-key.pdf) University of Michigan Press ELT, 2012.
+\[CA\] = ———. {{% resource_link "b73dfabf-3e23-4908-8a7f-46b5f5d157e2" "\"Commentary and Answer Key for *Grammar Choices for Graduate and Professional Writers*.\" (PDF)" %}} University of Michigan Press ELT, 2012.
 
 \[D\] = Day, Robert A., and Barbara Gastel. *How to Write and Publish a Scientific Paper*. 7th ed. Greenwood, 2011. ISBN: 9780313391972.
 
@@ -34,9 +34,9 @@ No readings assigned
 Introduction to professional writing
 {{< tdclose >}}{{< tdopen >}}
 
-Grant, Bob. "[Right Your Writing: How to Sharpen Your Writing and Your Manuscripts More Engaging](http://www.the-scientist.com/?articles.view/articleNo/27760/title/Right-your-Writing/)." *The Scientist*, November 1, 2009.
+Grant, Bob. "{{% resource_link "50b43d5b-a5f8-4e59-9c5f-b962fca3fc45" "Right Your Writing: How to Sharpen Your Writing and Your Manuscripts More Engaging" %}}." *The Scientist*, November 1, 2009.
 
-Griswold, William G. "[How to Read an Engineering Research Paper](http://cseweb.ucsd.edu/~wgg/CSE210/howtoread.html)."
+Griswold, William G. "{{% resource_link "cfa23609-cdc6-427b-97fe-c7eb6642cc0a" "How to Read an Engineering Research Paper" %}}."
 
 Study your syllabus. Bring questions to class.
 
@@ -52,13 +52,13 @@ Strategy, process & style (1)
 
 \[D\] Chapter 3: Approaching a Writing Project.
 
-Hanson, Michael J. ["Efficient Reading of Papers in Science and Technology." (PDF)](http://www.isi.edu/~johnh/TEACHING/CS551/ARCHIVE/Hanson99a.pdf)
+Hanson, Michael J. {{% resource_link "6bb22d28-4938-493c-8870-45c2461ef4e9" "\"Efficient Reading of Papers in Science and Technology.\" (PDF)" %}}
 
-Rettig, Hillary. ["Optimizing Your Writing Process: Write Nonlinearly." (PDF)](https://irp.nida.nih.gov/training/writing-resources/optimizing-your-writing-process/)
+Rettig, Hillary. {{% resource_link "183135af-fdad-472c-932d-26c14d7acb31" "\"Optimizing Your Writing Process: Write Nonlinearly.\" (PDF)" %}}
 
 ### Interested in reading more?
 
-Rockquemore, Kerry Ann, PhD. "[Writing Rocks](http://www.facultydiversity.org/?page=MM_WritingRocks)," The Monday Motivator, National Center for Faculty Development & Diversity.
+Rockquemore, Kerry Ann, PhD. "{{% resource_link "093d49bc-2202-48fe-bfce-b1d05552b871" "Writing Rocks" %}}," The Monday Motivator, National Center for Faculty Development & Diversity.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 4
@@ -92,23 +92,23 @@ Writing for the public
 
 \[D\] Chapter 33: Writing Clear Across Cultures and Media.
 
-Bavaria, MD, Joseph E., Jehnagir J. Appoo, MD, Michel S. Makarou, MD, et al. "[Endovascular Stent Grafting Versus Open Surgical Repair of Descending Thoracic Aortic Aneurysms in Low-risk Patients: A Multicenter Comparative Trial](https://www.ncbi.nlm.nih.gov/pubmed/17258566)." *Journal of Thoracic and Cardiovascular Surgery* 133, no. 2 (2007): 369-77.
+Bavaria, MD, Joseph E., Jehnagir J. Appoo, MD, Michel S. Makarou, MD, et al. "{{% resource_link "54871a22-8759-463b-a68e-ebc4731e650e" "Endovascular Stent Grafting Versus Open Surgical Repair of Descending Thoracic Aortic Aneurysms in Low-risk Patients: A Multicenter Comparative Trial" %}}." *Journal of Thoracic and Cardiovascular Surgery* 133, no. 2 (2007): 369-77.
 
-Bhanoo, Sindya N. "[New Wearable Sensor Can Collect Data From Sweat](http://www.nytimes.com/2016/02/02/science/new-wearable-sensor-can-collect-data-from-sweat.html?_r=0)," *New York Times*, February 1, 2016.
+Bhanoo, Sindya N. "{{% resource_link "c8c13838-b665-4544-900a-ce05f0026fdd" "New Wearable Sensor Can Collect Data From Sweat" %}}," *New York Times*, February 1, 2016.
 
-Gorman, James. "[The Venus Flytrap, a Plant That Can Count](http://www.nytimes.com/2016/02/02/science/the-venus-flytrap-a-plant-that-can-count.html)," *New York Times*, February 1, 2016.
+Gorman, James. "{{% resource_link "e20324c9-4d10-48fa-8323-c712fd1d35ac" "The Venus Flytrap, a Plant That Can Count" %}}," *New York Times*, February 1, 2016.
 
-Delude, Cathryn. "[Vascular Disease: Pipe Repair](http://protomag.com/articles/vascular-disease-pipe-repair)." *Proto*, May 3, 2011.
+Delude, Cathryn. "{{% resource_link "46053100-aefa-400d-8f18-671f5bdeab3c" "Vascular Disease: Pipe Repair" %}}." *Proto*, May 3, 2011.
 
 "Mind the Gap: Communicating Science to Diverse Audiences." *Science Editor* 31, no. 5 (2008): 158.
 
-News Office. "[Letter Regarding the First Direct Detection of Gravitational Waves](http://news.mit.edu/2016/letter-regarding-first-direct-detection-gravitational-waves-0211)," *MIT News*, February 11, 2016.
+News Office. "{{% resource_link "94dca4fb-51ae-48ee-b0de-8b49900485a5" "Letter Regarding the First Direct Detection of Gravitational Waves" %}}," *MIT News*, February 11, 2016.
 
-Reynolds, Gretchen. "[Why Runners Get Slower With Age (and How Strength Training May Help)](http://well.blogs.nytimes.com/2015/09/09/why-runners-get-slower-with-age-and-how-strength-training-may-help/)," *New York Times*, September 9, 2015.
+Reynolds, Gretchen. "{{% resource_link "44beb0ae-71e4-4e1b-901b-b1b1fbf8d3ad" "Why Runners Get Slower With Age (and How Strength Training May Help)" %}}," *New York Times*, September 9, 2015.
 
 *Model Paper - Presenting Complex Information to Non-specialist Audiences*
 
-Dyson, Freeman. "[The 'Dramatic Picture' of Richard Feynman](http://www.nybooks.com/articles/2011/07/14/dramatic-picture-richard-feynman/)." *The New York Review of Books*, July 14, 2011.
+Dyson, Freeman. "{{% resource_link "580bd9bf-54be-46e3-bece-ddcc9d47c9a4" "The 'Dramatic Picture' of Richard Feynman" %}}." *The New York Review of Books*, July 14, 2011.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 6
@@ -119,16 +119,16 @@ Peer workshop (1)
 Guidelines for productive peer review
 
 {{< tdclose >}}{{< tdopen >}}
-Reynolds, Gretchen. "[To Prevent Back Pain, Orthotics Are Out, Exercise Is In](http://well.blogs.nytimes.com/2016/01/27/to-prevent-back-pain-orthotics-are-out-exercise-is-in/)," *New York Times*, January 27, 2016.
+Reynolds, Gretchen. "{{% resource_link "abeea461-4bc9-4681-b74d-af603cb4ccc1" "To Prevent Back Pain, Orthotics Are Out, Exercise Is In" %}}," *New York Times*, January 27, 2016.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 7
 {{< tdclose >}}{{< tdopen >}}
 E-mail, memos & letters
 {{< tdclose >}}{{< tdopen >}}
 
-Fitzgerald, Michael. "[How to Write a Memorable Memo](http://www.cio.com/article/2448330/collaboration/how-to-write-a-memorable-memo.html)." *CIO*, October 15, 2005.
+Fitzgerald, Michael. "{{% resource_link "05119420-7a16-474b-baa4-45c9c125b9dd" "How to Write a Memorable Memo" %}}." *CIO*, October 15, 2005.
 
-Swales, John W., and Christine B. Feak. ["Appendix on Email Published in the 2nd Edition of *Academic Writing for Graduate Students*." (PDF)](http://www.press.umich.edu/resources/9780472034758-appendix.pdf) University of Michigan Press ELT, 2012.
+Swales, John W., and Christine B. Feak. {{% resource_link "d77e76c6-c519-4305-bbdb-bf84cb88bac1" "\"Appendix on Email Published in the 2nd Edition of *Academic Writing for Graduate Students*.\" (PDF)" %}} University of Michigan Press ELT, 2012.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 8
@@ -140,9 +140,9 @@ Verb form review (1)
 
 *Study the above; do tasks that have answer keys in \[CA\]; and bring questions to class*.
 
-[Irregular Verb Dictionary](http://www.englishpage.com/irregularverbs/irregularverbs.html), englishpage.com
+{{% resource_link "7086134c-502c-4adf-becf-524a829e8dcc" "Irregular Verb Dictionary" %}}, englishpage.com
 
-[Stative Verbs List](http://www.perfect-english-grammar.com/support-files/stative-verbs-list.pdf), perfectenglishgrammar.com
+{{% resource_link "107dd788-348f-41d3-88f6-354bb6cf1459" "Stative Verbs List" %}}, perfectenglishgrammar.com
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 9
@@ -160,23 +160,23 @@ Job letters
 
 \[D\] Chapter 38: How to Write a Recommendation Letter and How to Ask For One.
 
-[Academic Job Search – Cover Letter](https://career.berkeley.edu/grad-students-postdocs/academic-job-search/the-cover-letter/), Career Center, University of California – Berkeley.
+{{% resource_link "48d0059e-2812-42c5-8aa3-06496d67dc83" "Academic Job Search – Cover Letter" %}}, Career Center, University of California – Berkeley.
 
-[Action Verbs](https://med.emory.edu/departments/medicine/research/index.html), Veredus.
+{{% resource_link "b6d8363e-85a7-4cab-b844-e413a0c1f498" "Action Verbs" %}}, Veredus.
 
-Ball, Cheryl E. "[Understanding Cover Letters](https://www.insidehighered.com/advice/2013/11/04/essay-cover-letter-academic-jobs)." *Inside Higher Ed*, November 4, 2013.
+Ball, Cheryl E. "{{% resource_link "74da0a38-ad9e-4eb2-b0f6-ab461200ec07" "Understanding Cover Letters" %}}." *Inside Higher Ed*, November 4, 2013.
 
-Howard, Philip N. "[A Dozen Sentences](https://www.insidehighered.com/advice/2014/09/03/essay-lines-needed-every-cover-letter-academic-job)." *Inside Higher Ed*, September 3, 2014.
+Howard, Philip N. "{{% resource_link "1d0a0c66-7374-44c0-a049-8d1c90bc58db" "A Dozen Sentences" %}}." *Inside Higher Ed*, September 3, 2014.
 
-Korkki, Phyllis. "[A Cover Letter is Not Expendable](http://www.nytimes.com/2009/02/15/jobs/15career.html)," *New York Times*, February 14, 2009.
+Korkki, Phyllis. "{{% resource_link "8c77df12-d1c9-49c9-8167-af4f82232602" "A Cover Letter is Not Expendable" %}}," *New York Times*, February 14, 2009.
 
-Loretto, Penny. "[How to Write a Cover Letter for a Finance Internship](https://www.thebalance.com/how-to-write-a-cover-letter-for-a-finance-internship-1986448)," The Balance, May 26, 2016.
+Loretto, Penny. "{{% resource_link "84574961-48a4-4679-beaf-6567945651d6" "How to Write a Cover Letter for a Finance Internship" %}}," The Balance, May 26, 2016.
 
-["MIT Career Development Handbook 2016-2017." (PDF - 8.9MB)](https://gecd.mit.edu/sites/default/files/about/files/career-handbook.pdf)
+{{% resource_link "3166fd99-5aa8-4191-b9f1-305227f3fc7d" "\"MIT Career Development Handbook 2016-2017.\" (PDF - 8.9MB)" %}}
 
 ### Interested in reading more?
 
-[Graduate School – Statement of Purpose](https://career.berkeley.edu/get-into-grad-school/graduate-school/statement-of-purpose/), Career Center, University of California – Berkeley.
+{{% resource_link "fbe87f99-f450-4c5d-b32c-9e3f37484d2f" "Graduate School – Statement of Purpose" %}}, Career Center, University of California – Berkeley.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 11
@@ -194,7 +194,7 @@ Writing up research (1): Composition of documents
 
 \[D\] Chapter 4: What is a Scientific Paper?
 
-Roig, Miquel. "[26 Guidelines for Avoiding Plagiarism](http://www.unl.edu/gradstudies/current/news/26-guidelines-avoiding-plagiarism)."
+Roig, Miquel. "{{% resource_link "c42787e8-b98a-4f34-9f9f-75f9a829b015" "26 Guidelines for Avoiding Plagiarism" %}}."
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 13
@@ -210,11 +210,11 @@ Writing up research (2): Source use of sources
 
 \[H\] Skim.
 
-Fischer, Beth A., and Michael J. Zigmond. "[Twenty Steps to Writing a Research Article](http://www.unl.edu/gradstudies/current/news/twenty-steps-writing-research-article)."
+Fischer, Beth A., and Michael J. Zigmond. "{{% resource_link "d80e9a79-0e08-44a0-8cea-46fc64b7c796" "Twenty Steps to Writing a Research Article" %}}."
 
-Loui, Michael C. "[Seven Ways to Plagiarize: Handling Real Allegations of Research Misconduct](https://www.ncbi.nlm.nih.gov/pubmed/12501721)." *Science and Engineering Ethics* 8, no. 4 (2002): 529–39.
+Loui, Michael C. "{{% resource_link "402b01a6-63ca-43f1-8eef-d89fc3168c74" "Seven Ways to Plagiarize: Handling Real Allegations of Research Misconduct" %}}." *Science and Engineering Ethics* 8, no. 4 (2002): 529–39.
 
-Newhouse, Margaret. "[Transferable Skills](https://ut-ie.com/t-z/transfer_skills.html)."
+Newhouse, Margaret. "{{% resource_link "a486f75a-1f71-4ef8-bb1a-961b75161e12" "Transferable Skills" %}}."
 
 ### Take the quiz:
 
@@ -230,9 +230,9 @@ Indefinite / definite article review
 
 *Study the above; do tasks that have answer keys in \[CA\]; and bring questions to class*.
 
-[Articles](http://writingcenter.unc.edu/handouts/articles/), the Writing Center at UNC-Chapel Hill.
+{{% resource_link "66bfd121-8f18-4083-8329-6f431ad30d21" "Articles" %}}, the Writing Center at UNC-Chapel Hill.
 
-[Articles, Determiners and Quantifiers](https://guidetogrammar.org/grammar/determiners/determiners.htm), the Guide to Grammar and Writing, Capital Community College Foundation.
+{{% resource_link "d7935109-aeda-46b7-a42f-b01d0b39f286" "Articles, Determiners and Quantifiers" %}}, the Guide to Grammar and Writing, Capital Community College Foundation.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 15
@@ -246,25 +246,25 @@ Writing up research (3): Introductory sections
 
 \[D\] Chapter 23: How to Write a Review Paper. "Table 20-1"
 
-Kumar, M. Jagadesh. "[Making Your Research Paper Discoverable: Title Plays the Winning Trick](http://www.tandfonline.com/doi/abs/10.4103/0256-4602.123113)." *IETE Technical Review* 30, no. 5 (2013): 361–63.
+Kumar, M. Jagadesh. "{{% resource_link "4ce6594d-81c7-4371-9771-ab0ae8879d21" "Making Your Research Paper Discoverable: Title Plays the Winning Trick" %}}." *IETE Technical Review* 30, no. 5 (2013): 361–63.
 
  Rew, Lois J. "Table 20-1: Types and Characteristics of Summaries." In *Introduction to Technical Writing: Process & Practice*. 2nd edition. St. Martin's Press, 1993. ISBN: 9780312067816.
 
-Taylor, Dena. "[The Literature Review: A Few Tips On Conducting It](http://www.writing.utoronto.ca/advice/specific-types-of-writing/literature-review)," Health Sciences Writing Centre, University of Toronto.
+Taylor, Dena. "{{% resource_link "b6e49f54-bed0-4a09-a5fe-342cdbc5c617" "The Literature Review: A Few Tips On Conducting It" %}}," Health Sciences Writing Centre, University of Toronto.
 
 *Sample journal abstract (informative)*
 
-Prather, Jonathan F., Susan Peters, Stephen Nowicki, et al. "[Precise Auditory-Vocal Mirroring in Neurons for Learned Vocal Communication](http://www.nature.com/nature/journal/v451/n7176/abs/nature06492.html)." *Nature* 451 (2008): 305-10.
+Prather, Jonathan F., Susan Peters, Stephen Nowicki, et al. "{{% resource_link "3850a96a-45b2-4447-b0a4-03517ff70d0f" "Precise Auditory-Vocal Mirroring in Neurons for Learned Vocal Communication" %}}." *Nature* 451 (2008): 305-10.
 
 *Sample journal abstract (descriptive)*
 
-Banister, David, and Robin Hickman. "[How to Design a More Sustainable and Fairer Built Environment: Transport and Communications](https://www.researchgate.net/publication/3465179_How_to_design_a_more_sustainable_and_fairer_built_environment_Transport_and_communications)." *IEE Proceedings - Intelligent Transport Systems* 153, no. 4 (2007): 276-91.
+Banister, David, and Robin Hickman. "{{% resource_link "adc64d52-d89d-4206-9745-d2d26cd4ba41" "How to Design a More Sustainable and Fairer Built Environment: Transport and Communications" %}}." *IEE Proceedings - Intelligent Transport Systems* 153, no. 4 (2007): 276-91.
 
 *The craft of writing effective abstracts*
 
-Reis, Ricardo. "[Where is the Natural Rate? Rational Policy Mistakes and Persistent Deviations of Inflation from Target](https://www.degruyter.com/view/j/bejm.2003.3.1/bejm.2003.3.1.1118/bejm.2003.3.1.1118.xml)." *The BE Journal of Macroeconomics* 3, no. 1 (2003).
+Reis, Ricardo. "{{% resource_link "e830ecc4-0de4-43ce-a5b4-baba37f73199" "Where is the Natural Rate? Rational Policy Mistakes and Persistent Deviations of Inflation from Target" %}}." *The BE Journal of Macroeconomics* 3, no. 1 (2003).
 
-Su, Guolong. ["Polynomial Decomposition Algorithims in Signal Processing."](http://www.rle.mit.edu/dspg/documents/Su_Master_Submit.pdf) [(PDF)](http://www.rle.mit.edu/dspg/documents/Su_Master_Submit.pdf) Master Thesis, June 2013.
+Su, Guolong. {{% resource_link "b47eebed-7bb0-4ede-b895-06ea6964a365" "\"Polynomial Decomposition Algorithims in Signal Processing.\"" %}} {{% resource_link "b47eebed-7bb0-4ede-b895-06ea6964a365" "(PDF)" %}} Master Thesis, June 2013.
 
 *Task 1*
 
@@ -286,7 +286,7 @@ Skim each of these abstracts and cross out all the language that describes the r
 
 *Model EECS thesis abstract*
 
-Rezavi, Mohsen. "[Long-distance Quantum Communication with Neutral Atoms](https://core.ac.uk/display/4399278)." Core.
+Rezavi, Mohsen. "{{% resource_link "7e932478-236a-4c65-9e0b-594e36aa8626" "Long-distance Quantum Communication with Neutral Atoms" %}}." Core.
 
 *Task 1*
 
@@ -304,11 +304,11 @@ Writing up research (4): Proposals, part I
 
 \[D\] Chapter 37: How to Prepare Grant Proposals and Progress Reports.
 
-Matthews, Mark. "[Tips for a Winning Research Proposal](http://www.asee-prism.org/tips-for-a-winning-research-proposal/)." *Prism*, September 2014.
+Matthews, Mark. "{{% resource_link "3e234059-ca8f-44bb-8697-4e9a3298463d" "Tips for a Winning Research Proposal" %}}." *Prism*, September 2014.
 
-[National Science Foundation Grant Proposal Guide](https://www.nsf.gov/publications/pub_summ.jsp?ods_key=gpg), January 2016, National Science Foundation.
+{{% resource_link "63f25a9d-e7a3-4008-8b6e-7ea1ba6dece5" "National Science Foundation Grant Proposal Guide" %}}, January 2016, National Science Foundation.
 
-Walters, Mary W. "[Know Your Audience](https://www.insidehighered.com/advice/2010/01/29/know-your-audience)." *Inside Higher Ed*, January 29, 2010.
+Walters, Mary W. "{{% resource_link "d0c8d9af-69c6-4b11-88cd-3091642e1675" "Know Your Audience" %}}." *Inside Higher Ed*, January 29, 2010.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 17
@@ -376,25 +376,25 @@ Writing up research (6): Publishing & professionalism
 
 \[D\] Chapter 40: How to Provide Peer Review.
 
-Grens, Kerry. "[Self Correction: What to Do When You Realize Your Publication Is Fatally Flawed](http://www.the-scientist.com/?articles.view/articleNo/44594/title/Self-Correction/)." *The Scientist*, December 1, 2015.
+Grens, Kerry. "{{% resource_link "7709d7a4-0320-43b2-a574-4103f39a4df7" "Self Correction: What to Do When You Realize Your Publication Is Fatally Flawed" %}}." *The Scientist*, December 1, 2015.
 
-Grove, Jack. "[Questioning the 'Myth' of Linguistic Bias](https://www.insidehighered.com/news/2016/03/25/new-analysis-questions-whether-language-blocks-publication-work-nonnative-english)." *Inside Higher Ed*, March 25, 2016.
+Grove, Jack. "{{% resource_link "3b69928c-9052-4e5a-9140-e530d5a24d90" "Questioning the 'Myth' of Linguistic Bias" %}}." *Inside Higher Ed*, March 25, 2016.
 
 Reis, Joanne B., and Carl G. Leukefeld. "Contending with Reviewers' Comments." Chapter 2 in *The Research Funding Guidebook: Getting It, Managing It, & Renewing It*. SAGE Publications Incorporation, 1997. ISBN: 9780761902317.
 
-[Responding to Peer Review](http://matt.might.net/articles/peer-review-rebuttals/), matt.might.net.
+{{% resource_link "2f7ba2f0-0981-4cb6-80eb-69631b628026" "Responding to Peer Review" %}}, matt.might.net.
 
-Whitesides, George M. "[Whitesides' Group: Writing a Paper](http://dx.doi.org/10.1002/adma.200400767)." *Advanced Materials* 16, no. 15 (2004): 1375–77.
+Whitesides, George M. "{{% resource_link "a1964c55-ce80-4f4e-a94d-89a65c0651cc" "Whitesides' Group: Writing a Paper" %}}." *Advanced Materials* 16, no. 15 (2004): 1375–77.
 
 *To prepare for class discussion of professionalism, read the following articles and keep notes on supporting points and counter arguments*
 
-Bertamini, Marco, and Marcus R. Munafò. "[The Perils of 'Bite Size' Science](http://www.nytimes.com/2012/01/29/opinion/sunday/the-perils-of-bite-size-science.html)," *New York Times*, January 28, 2012.
+Bertamini, Marco, and Marcus R. Munafò. "{{% resource_link "517bc0e8-3996-4005-becd-6253a3aa2858" "The Perils of 'Bite Size' Science" %}}," *New York Times*, January 28, 2012.
 
-Lin, Thomas. "[Cracking Open the Scientific Process](http://www.nytimes.com/2012/01/17/science/open-science-challenges-journal-tradition-with-web-collaboration.html)," *New York Times*, January 16, 2012.
+Lin, Thomas. "{{% resource_link "ada51526-3e0a-41f8-b50b-ebb1ade71015" "Cracking Open the Scientific Process" %}}," *New York Times*, January 16, 2012.
 
-Price, Richard. "[Peer Review Needs to Expand So That More Scientists are Reviewing Papers](https://www.theguardian.com/higher-education-network/blog/2013/oct/23/peer-review-system-science-research)," *The Guardian*, October 23, 2013.
+Price, Richard. "{{% resource_link "7fabd4d6-56c3-4d82-b2a6-f2e74c26049d" "Peer Review Needs to Expand So That More Scientists are Reviewing Papers" %}}," *The Guardian*, October 23, 2013.
 
-Yandell, Kate. "[Bonding in the Lab: How to Make Your Lab Less Like a Factory and More Like a Family](http://www.the-scientist.com/?articles.view/articleNo/37616/title/Bonding-in-the-Lab/)." *The Scientist*, October 1, 2013.
+Yandell, Kate. "{{% resource_link "7cf4c461-7b66-46b5-8e6e-e9cdf90e77ad" "Bonding in the Lab: How to Make Your Lab Less Like a Factory and More Like a Family" %}}." *The Scientist*, October 1, 2013.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 22
@@ -404,17 +404,17 @@ Conference papers & poster sessions
 
 \[D\] Chapter 5: How to Present a Paper Orally.
 
-Angelini, Alessandro. "[Art of the Conference Paper](https://www.insidehighered.com/advice/2010/11/03/art-conference-paper)." *Inside Higher Ed*, November 3, 2010.
+Angelini, Alessandro. "{{% resource_link "85261e0f-55fa-4903-bc70-213658788fcb" "Art of the Conference Paper" %}}." *Inside Higher Ed*, November 3, 2010.
 
-Connor, Carol Waite. ["The Poster Session: A Guide for Preparation." (PDF)](https://pubs.usgs.gov/of/1988/0667/report.pdf)
+Connor, Carol Waite. {{% resource_link "4b2faeaa-3849-4335-a67a-a369e180ceaa" "\"The Poster Session: A Guide for Preparation.\" (PDF)" %}}
 
 ### Interested in learning more about scientific presentations?
 
-Alley, Michael. ["*The Craft of Scientific Presentations: Critical Steps to Succeed and Critical Errors to Avoid*." (PDF - 3.0MB)](http://sharif.edu/~namvar/index_files/Scientific-Presentation.pdf) Springer, 2002. ISBN: 9780387955551.
+Alley, Michael. {{% resource_link "23e53ab5-ed1d-4967-821c-a86d976b86c9" "\"*The Craft of Scientific Presentations: Critical Steps to Succeed and Critical Errors to Avoid*.\" (PDF - 3.0MB)" %}} Springer, 2002. ISBN: 9780387955551.
 
 ### Interested in reading more on posters?
 
-Zielinska, Edyta. "[Poster Perfect: How to Drive Home Your Science with a Visually Pleasing Poster](http://www.the-scientist.com/?articles.view/articleNo/31071/title/Poster-Perfect/)." *The Scientist*, September 1, 2011.
+Zielinska, Edyta. "{{% resource_link "8fed0816-0deb-4aaa-8a4b-baef6b05e365" "Poster Perfect: How to Drive Home Your Science with a Visually Pleasing Poster" %}}." *The Scientist*, September 1, 2011.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 23 and 24
@@ -432,17 +432,17 @@ In your individual consultations, be prepared to discuss your questions, problem
 Two-minute research presentations
 {{< tdclose >}}{{< tdopen >}}
 
-Flaherty, Colleen. "[Snapshot Dissertation](https://www.insidehighered.com/news/2013/02/22/duke-proposes-mandatory-short-video-pitch-accompany-dissertations)." *Inside Higher Ed*, February 22, 2013.
+Flaherty, Colleen. "{{% resource_link "33aca0ed-2110-4a93-abb8-5553eba0f315" "Snapshot Dissertation" %}}." *Inside Higher Ed*, February 22, 2013.
 
 {{% resource_link "16ec3974-9a28-6e2c-e581-a31df80952b1" "From Conference Paper to Conference Talk: Nano-presentations" %}}
 
 ### View
 
-[MIT Student Chris Moses Describes his Research](http://link.brightcove.com/services/player/bcpid36912671001?bctid=221225209001), brightcove.
+{{% resource_link "5f3556d1-688c-4c71-b2e2-568a6e55f595" "MIT Student Chris Moses Describes his Research" %}}, brightcove.
 
 ### Interested in seeing more "bite-size" thesis presentations?
 
-"[Winning 3MT Presentations from Around the Globe](http://threeminutethesis.org/3mt-showcase)." 3MT - Three Minute Thesis, University of Queensland.
+"{{% resource_link "1e79affa-13c3-4954-b5a2-d02bcbaf55de" "Winning 3MT Presentations from Around the Globe" %}}." 3MT - Three Minute Thesis, University of Queensland.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 26
